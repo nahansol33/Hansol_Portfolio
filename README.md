@@ -13,4 +13,4 @@ Personal Portfolio
 *	Led a team of four to create our own card game, and drafted a comprehensive project proposal to establish project goals, programming requirements, and guidelines to be followed
 *	Created UML (Unified Modelling Langaugge) Diagram and Use-Case Diagrams to delegate coding tasks for each group members and ensured successful completion of all parts
 *	Used Java to develop our game and implemented Object Oriented Programming concepts to achieve high cohesion, loose coupling, and make our code more efficient
-
+![](/images/Screenshot%202023-08-18%20at%2010.08.26%20PM.png)
