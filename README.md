@@ -1,4 +1,5 @@
 # Hansol Na
+![](https://github.com/nahansol33/Hansol_Portfolio/blob/main/images/KakaoTalk_Photo_2022-10-02-12-29-04%20002.jpeg))
 Personal Portfolio
 
 # Projects
