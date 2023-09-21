@@ -19,7 +19,7 @@ alt="Youtube Thumbnail" width="240" height="180" border="10" /></a>
 * Created an arcade style shooting game that features: moving targets with varying patterns, scaling difficulty levels, and a scoreboard by applying Object Oriented Programming principles
 * Implemented GUI using JavaFX to design a sign-in/sign-up page, File Handling system for data storage, Exception Handling to ensure code runs smoothly, and Object Oriented Programming concepts to create the codebase
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=VjMfI5EWM6A?si=NwtVvyigvqBt8idr](https://www.youtube.com/watch?v=VjMfI5EWM6A&ab_channel=HanN" target="_blank"><img src="images/johnwicked.png" 
+<a href="[http://www.youtube.com/watch?feature=player_embedded&v=VjMfI5EWM6A?si=NwtVvyigvqBt8idr](https://www.youtube.com/watch?v=VjMfI5EWM6A&ab_channel=HanN](https://www.youtube.com/watch?v=c1q-uNMNI9I&ab_channel=HanN)" target="_blank"><img src="images/johnwicked.png" 
 alt="Youtube Thumbnail" width="240" height="180" border="10" /></a>
 
 ## [Group Project: Java Card Game](https://github.com/nahansol33/SYST17796-GroupProject.git)
